@@ -9,6 +9,12 @@ import com.syngenta.view.Input;
 public class Program {
 	
 	/***
+	 * 1-O PROGRAMA EXECUTA CORRETAMENTE COM QUALQUER DATA, MESMO QUE SEJA
+	 * FUTURA OU DIFERENTE DAS ENTRADAS DO ENUNCIADO (Exemplo: Hoje 09May2022(mon))
+	 * 
+	 *2-O PROGRAMA FOI DESENVOLVIDO BASEANDO-SE NA PROPOSTA, ONDE AS ENTRADAs, BEM COMO
+	 *OS HOTEIS, SERIAM EM INGLÊS (Exemplo: Agosto~August~Aug)
+	 *
 	 * O sistema recebe os dados do usuario, verifica se a entrda é válida
 	 * , transforma a String em dados legiveis para identificarmos se o cliente 
 	 * é Regular ou Rewars e o principal, se as datas em questão são dias da semana ou finais
