@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-18/jmods/junit-4.13.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-18/jmods/junit-jupiter-5.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-18/jmods/junit-jupiter-api-5.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-18/jmods/junit-jupiter-engine-5.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-18/jmods/junit-jupiter-migrationsupport-5.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-18/jmods/junit-jupiter-params-5.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-18/jmods/junit-platform-commons-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-18/jmods/junit-platform-console-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-18/jmods/junit-platform-console-standalone-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-18/jmods/junit-platform-engine-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-18/jmods/junit-platform-jfr-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-18/jmods/junit-platform-launcher-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-18/jmods/junit-platform-reporting-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-18/jmods/junit-platform-runner-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-18/jmods/junit-platform-suite-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-18/jmods/junit-platform-suite-api-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-18/jmods/junit-platform-suite-commons-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-18/jmods/junit-platform-suite-engine-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-18/jmods/junit-platform-testkit-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-18/jmods/junit-vintage-engine-5.8.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
